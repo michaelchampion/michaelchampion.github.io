@@ -5,7 +5,7 @@ Advisory Committee from 1997 to 2020, including Microsoft from 2004 until my ret
 and continue some engagement with what amounts to "emeritus" status due to my service on the AB. I keep in touch with my former counterparts at Mozilla, Apple, Google,
 and other W3C members, but have no access to confidential information and absolutely do not speak for them or represent them in any way.
 
-Link to Manu's FAQ
+Link to Manu's FAQ https://msporny.github.io/did-core-formal-objections/
 
 ## What does it mean for something to be a "W3C Recommendation"?
 
