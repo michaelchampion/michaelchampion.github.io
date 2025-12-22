@@ -213,3 +213,11 @@ Stop cosplaying. Start counting power. Build coalitions. Take the boring wins. R
 Or keep performing righteousness while the world burns. Your choice.
 
 But don't act surprised when your principles lead to outcomes you hate. That's not irony—that's just what happens when you confuse looking good with doing good.
+
+==========================
+DISCLAIMER: THIS IS PURE UNADULTERATED AI SLOP
+
+I used ChatGPT to generate a detailed prompt with the prompt:
+> Please craft an AI prompt that can be used to write an “AI slop” article called “Cosplaying down the road to Hell: How well-meaning but politically naive advocacy made things worse”.  Examples would include the fictional Judean Peoples Front in the Life of Brian, the Palestinian and Somali activists dis-satisfied with the Biden administrations policies who helped get Trump elected (who was much worse for those groups), and W3C’s history of ineffective “standards” intended to promote privacy and environmental sustainability
+
+Then fed the prompt to Claude.ai
