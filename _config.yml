@@ -116,9 +116,9 @@ analytics:
 author:
   name             : "Michael Champion"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "
+  bio              : #
   location         : "Whidbey Island, WA"
-  email            :
+  email            : #
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
     - label: "Email"
