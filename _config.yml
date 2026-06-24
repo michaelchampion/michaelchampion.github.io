@@ -19,7 +19,7 @@ locale                   : "en-US"
 direction                : # "ltr" (default), "rtl" # set the direction of the page
 title                    : "Frenemies' Dilemmas"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Thoughts on Coop-etition, in theory and practice"# site tagline that appears below site title in masthead
 name                     : "Michael Champion"
 description              : "Thoughts on Coop-etition, in theory and practice"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
