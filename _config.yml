@@ -21,7 +21,7 @@ title                    : "Frenemies' Dilemmas"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Michael Champion"
-description              : "Pondering commplexities "
+description              : "Thoughts on Coop-etition, in theory and practice"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -89,8 +89,8 @@ yandex_site_verification :
 baidu_site_verification  :
 
 # Social Sharing
-bluesky:
-  username               : abundah
+twitter:
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -114,11 +114,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Michael Champion"
+  name             : "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : #
-  location         : "Whidbey Island, WA"
-  email            : #
+  bio              : "I am an **amazing** person."
+  location         : "Somewhere"
+  email            :
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
     - label: "Email"
@@ -331,4 +331,3 @@ defaults:
       comments: # true
       share: true
       related: true
-
