@@ -114,12 +114,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Michael Champion"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "Recovering from 50 years in software development"
+  location         : "Whidbey Island, WA"
   email            :
-  # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
+  fediverse      : "https://indieweb.social/@michaelchampion"  # used for fediverse:creator meta tag
   links:
     - label: "Email"
       icon: "fas fa-fw fa-square-envelope"
